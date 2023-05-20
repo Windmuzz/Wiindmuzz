@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Wiindmuzz
-- 👀 I’m interested in astrophysics and aerospatial.
-- 🌱 I’m currently learning STEM, programming and violin.
+- 👋 Hi, I’m Sasha!
+- 👀 I’m interested in space stuff, wannabe astrobiologist.
+- 🌱 I’m currently learning STEM and violin. 
 - 💞️ I’m looking forward to learn more on coding and on the potential of computers regarding space exploration, telescopes and the likes cause it's just rad.
 - 📫 How to reach me: on Discord if you ask :D
 
