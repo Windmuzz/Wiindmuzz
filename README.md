@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Sasha!
-- 👀 I’m interested in space stuff, wannabe astrobiologist.
-- 🌱 I’m currently learning STEM and violin. 
-- 💞️ I’m looking forward to learn more on coding and on the potential of computers regarding space exploration, telescopes and the likes cause it's just rad.
-- 📫 How to reach me: on Discord if you ask :D
+- 👀 I’m interested in game development. 
+- 🌱 I’m currently learning too many things. 
+- 💞️ I’m looking forward to learn more on coding and on making games. 
+- 📫 How to reach me: via pigeons. 
 
 <!---
 Wiindmuzz/Wiindmuzz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
